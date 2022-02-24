@@ -9,15 +9,18 @@ Faço parte da equipe [AsimUFF - Robótica](https://www.linkedin.com/company/asi
 Sou bolsista de Iniciação Científica no projeto Entropia, que utiliza os seguintes repositórios:
 
 <a href="https://github.com/LucasMartelloNogueira/Entropy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasMartelloNogueira&repo=Entropy" />
+  <img align="center" height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasMartelloNogueira&repo=Entropy" />
 </a>
 <a href="https://github.com/filhaDeHades/satellite-code-entropy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=filhaDeHades&repo=satellite-code-entropy" />
+  <img align="center" height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=filhaDeHades&repo=satellite-code-entropy" />
 </a>
 
 ##
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=filhaDeHades&locale=pt-br&count_private=true&include_all_commits=true&show_icons=true&theme=ocean_dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filhaDeHades&locale=pt-br&langs_count=8&layout=compact&theme=ocean_dark)](https://github.com/anuraghazra/github-readme-stats)
+<div style="width: 100%; display: inline-block;">
+  <a href="https://github.com/filhaDeHades">
+    <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api?username=filhaDeHades&locale=pt-br&count_private=true&include_all_commits=true&show_icons=true&theme=ocean_dark" />
+    <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filhaDeHades&locale=pt-br&langs_count=8&layout=compact&theme=ocean_dark" /></a>
+</div>
 <br><br>
 <table>
   <tr>
