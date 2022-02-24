@@ -9,10 +9,10 @@ Faço parte da equipe [AsimUFF - Robótica](https://www.linkedin.com/company/asi
 Sou bolsista de Iniciação Científica no projeto Entropia, que utiliza os seguintes repositórios:
 
 <a href="https://github.com/LucasMartelloNogueira/Entropy">
-  <img align="center" height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasMartelloNogueira&repo=Entropy" />
+  <img align="center" height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasMartelloNogueira&repo=Entropy&theme=ocean_dark" />
 </a>
 <a href="https://github.com/filhaDeHades/satellite-code-entropy">
-  <img align="center" height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=filhaDeHades&repo=satellite-code-entropy" />
+  <img align="center" height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=filhaDeHades&repo=satellite-code-entropy&theme=ocean_dark" />
 </a>
 
 ##
