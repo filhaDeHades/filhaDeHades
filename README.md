@@ -2,12 +2,9 @@
 
 Sou estudante de Ciência da Computação na UFF (Universidade Federal Fluminense).
 
-Faço parte da Atlética do curso Associação Atlética Acadêmica Ada Lovelace ([AAAAL](https://www.linkedin.com/company/piratasdauff/)).
+Fui membro da Atlética do curso Associação Atlética Acadêmica Ada Lovelace ([AAAAL](https://www.linkedin.com/company/piratasdauff/)) e também da equipe [AsimUFF - Robótica](https://www.linkedin.com/company/asimuff/), onde ajudei no desenvolvimento de robôs autônomos para competição.
 
-Faço parte da equipe [AsimUFF - Robótica](https://www.linkedin.com/company/asimuff/), onde ajudo no desenvolvimento de robôs autônomos para competição.
-
-Sou bolsista de Iniciação Científica no projeto Entropia, que utiliza os seguintes repositórios:
-
+Fui bolsista de Iniciação Científica no projeto Entropia (2021 - 2023), que utiliza os seguintes repositórios:
 <a href="https://github.com/LucasMartelloNogueira/Entropy">
   <img align="center" height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasMartelloNogueira&repo=Entropy&theme=ocean_dark" />
 </a>
@@ -31,6 +28,7 @@ Sou bolsista de Iniciação Científica no projeto Entropia, que utiliza os segu
         <li>🦾 Automatização de Processos com Python</li>
         <li>💻 Front-End Desktop com C++ (Qt)</li>
         <li>🎮 Criação de Jogos com a Unity Game Engine (C#)</li>
+        <li>🎮 Criação de Jogos com Godot Game Engine (GDScript)</li>
       </ul>
     </td>
     <td>
@@ -39,7 +37,8 @@ Sou bolsista de Iniciação Científica no projeto Entropia, que utiliza os segu
         <li>✉️ Desenvolvimento de Emails HTML</li>
         <li>🌐 Desenvolvimento Front-End para WEB</li>
         <li>🦾 Automatização de Processos</li>
-        <li>🎮 Criação de Jogos com Godot Game Engine (GDScript)</li>
+        <li>📊 Qualidade e Teste de Software</li>
+        
       </ul>
     </td>
   </tr>
