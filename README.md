@@ -40,7 +40,6 @@ Fui bolsista de Iniciação Científica no projeto Entropia (2021 - 2023), que u
         <li>🌐 Computação Gráfica</li>
         <li>🦾 Automatização de Processos</li>
         <li>📊 Qualidade e Teste de Software</li>
-        
       </ul>
     </td>
   </tr>
